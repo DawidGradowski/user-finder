@@ -1,0 +1,15 @@
+SEARCHING FOR EXISTING USER:
+19.12.2022/ $ python finder2.py
+User was found!
+0:00:00.000524
+19.12.2022/ $ python finder1.py
+User was found!
+0:00:00.000268
+
+SEARCHING FOR NOT EXISTING USER:
+19.12.2022/ $ python finder1.py
+User wasn't found.
+0:00:00.000381
+19.12.2022/ $ python finder2.py
+User wasn't found.
+0:00:00.000508
